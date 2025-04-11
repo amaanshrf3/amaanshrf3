@@ -4,7 +4,6 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Student at Zahira College  
-- 🎯 Currently learning: **Cybersecurity**, **AI**, and **Data Science**
 - 🌐 Exploring: Cybersecurity & AI 
 - 💡 I love building projects and solving real-world problems
 
