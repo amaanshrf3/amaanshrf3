@@ -23,12 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanshrf3&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
-## 📈 GitHub Analytics  
-<div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=amaanshrf3&show_icons=true&theme=radical&rank_icon=github) | ![Streak](https://streak-stats.demolab.com?user=amaanshrf3&theme=radical&hide_border=true) |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-</div>
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://instagram.com/justt.lenslife_v1">
