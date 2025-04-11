@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaanshrf3&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 - 📧 Email: `amaanshareef2007@gmail.com`
