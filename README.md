@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Amaan Shareef
 
-<div align="center">
-  
-![Profile Views](https://count.getloli.com/get/@amaanshrf3?theme=moebooru)
-
-</div>
+### 🌟 Profile Visits
+<p align="center">
+  <img src="https://profile-counter.glitch.me/amaanshrf3/count.svg?style=flat-square&color=5b34da" alt="Visitor Count" />
+</p>
 
 ## 🧑‍💻 About Me
 - 🎓 Student at Zahira College
