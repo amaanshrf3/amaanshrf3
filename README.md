@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Amaan Shareef
 
-<!--
-**amaanshrf3/amaanshrf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Student at Zahira College  
+- 🎯 Currently learning: **Cybersecurity**, **AI**, and **Data Science**
+- 🌐 Exploring: Cybersecurity & AI 
+- 💡 I love building projects and solving real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 How to reach me:
+- 📧 Email: `amaanshareef2007@gmail.com`
+- 📸 Photography IG: [@justt.lenslife_v1](https://instagram.com/justt.lenslife_v1)
+
+---
+
+⭐️ Thanks for visiting!
