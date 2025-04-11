@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Amaan Shareef
 
-### 🌟 Profile Visits
+### 🌟 Profile Visits  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/amaanshrf3/count.svg?style=flat-square&color=5b34da" alt="Visitor Count" />
+  <a href="https://github.com/amaan-xyz?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/amaan-xyz?color=5B34DA&label=PROFILE%20VISITS&logo=eye" alt="Profile Visits">
+  </a>
 </p>
 
 ## 🧑‍💻 About Me
@@ -26,7 +28,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanshrf3&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
+## 📈 GitHub Analytics  
+<div align="center">
 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=amaan-xyz&show_icons=true&theme=radical&rank_icon=github) | ![Streak](https://streak-stats.demolab.com?user=amaan-xyz&theme=radical&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+</div>
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://instagram.com/justt.lenslife_v1">
