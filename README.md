@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Amaan Shareef
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amaan-xyz&color=blue&style=flat-square&label=👀+PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ## 🧑‍💻 About Me
 - 🎓 Student at Zahira College
@@ -18,15 +20,27 @@
 </p>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaanshrf3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanshrf3&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaanshrf3&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanshrf3&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
-## 📫 How to reach me:
-- 📧 Email: `amaanshareef2007@gmail.com`
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/justt.lenslife_v1)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-shareef-478657282)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanshrf3&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://instagram.com/justt.lenslife_v1">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amaan-shareef-478657282">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:amaanshareef2007@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
+  </a>
+</p>
 
 
 ⭐️ Thanks for visiting!
