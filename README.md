@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Amaan Shareef
 
-### 🌟 Profile Visits  
-<p align="center">
-  <a href="https://github.com/amaan-xyz?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/amaan-xyz?color=5B34DA&label=PROFILE%20VISITS&logo=eye" alt="Profile Visits">
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 ## 🧑‍💻 About Me
 - 🎓 Student at Zahira College
@@ -31,7 +26,7 @@
 ## 📈 GitHub Analytics  
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=amaan-xyz&show_icons=true&theme=radical&rank_icon=github) | ![Streak](https://streak-stats.demolab.com?user=amaan-xyz&theme=radical&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=amaanshrf3&show_icons=true&theme=radical&rank_icon=github) | ![Streak](https://streak-stats.demolab.com?user=amaanshrf3&theme=radical&hide_border=true) |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 </div>
 ## 🌐 Connect With Me
