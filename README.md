@@ -3,7 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 ## 🧑‍💻 About Me
-- 🎓 Student at Zahira College  
+- 🎓 Student at Zahira College
+- 🎯 Focused on learning, building, and capturing life  
 - 🌐 Exploring: Cybersecurity & AI 
 - 💡 I love building projects and solving real-world problems
 
@@ -19,8 +20,8 @@
 
 ## 📫 How to reach me:
 - 📧 Email: `amaanshareef2007@gmail.com`
-- 📸 Photography IG: [@justt.lenslife_v1](https://instagram.com/justt.lenslife_v1)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/justt.lenslife_v1)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-shareef-478657282)
 
----
 
 ⭐️ Thanks for visiting!
