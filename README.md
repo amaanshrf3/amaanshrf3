@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Amaan Shareef
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+<div align="center">
+  
+![Profile Views](https://count.getloli.com/get/@amaan-xyz?theme=moebooru)
+
+</div>
 
 ## 🧑‍💻 About Me
 - 🎓 Student at Zahira College
