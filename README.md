@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile Views](https://count.getloli.com/get/@amaan-xyz?theme=moebooru)
+![Profile Views](https://count.getloli.com/get/@amaanshrf3?theme=moebooru)
 
 </div>
 
