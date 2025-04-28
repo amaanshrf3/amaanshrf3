@@ -29,7 +29,7 @@
   <a href="https://instagram.com/justt.lenslife_v1">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/amaan-shareef-478657282">
+  <a href="https://www.linkedin.com/in/amaanshrf3">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
   </a>
   <a href="mailto:amaanshareef2007@gmail.com">
