@@ -3,10 +3,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 ## 🧑‍💻 About Me
-- 🎓 Student at Zahira College
-- 🎯 Focused on learning, building, and capturing life  
-- 🌐 Exploring: Cybersecurity & AI 
-- 💡 I love building projects and solving real-world problems
+
+- 🎓 Student at Zahira College, Sri Lanka
+- 🚀 Founder @ Nevoxa Labs — building AI-powered SaaS products
+- 🛍️ Creator of Nivora POS — cloud-based multi-tenant POS platform
+- 💻 Full-Stack Developer | AI & Cybersecurity Enthusiast
+- 🌍 Building from Sri Lanka for the world
 
 ## 🛠️ Languages & Tools
 <p align="left">
